@@ -17,4 +17,5 @@ When the search function is blank, the webpage shows every point of data and the
 
 <img width="1259" alt="table_unfiltered" src="https://user-images.githubusercontent.com/96352625/159202425-4288a9b2-4c57-41f1-851f-88f26851f2ef.png">
 
+Now, the user can search based on their preferred data.
 ## Summary
