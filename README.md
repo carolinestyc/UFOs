@@ -17,5 +17,8 @@ When the search function is blank, the webpage shows every point of data and the
 
 <img width="1259" alt="table_unfiltered" src="https://user-images.githubusercontent.com/96352625/159202425-4288a9b2-4c57-41f1-851f-88f26851f2ef.png">
 
-Now, the user can search based on their preferred data.
+Now, the user can search based on their preferred data. For example, if they want to see all the UFO sightings in the state of Arizona, they would type "az" into the Enter State field and press "enter", pulling up all sightings in the state of Arizona. As shown below, there are 2 sightings in the state of Arizona.
+
+<img width="1179" alt="state_filter" src="https://user-images.githubusercontent.com/96352625/159202750-e26dea77-84dd-4838-b746-6b254257928e.png">
+
 ## Summary
