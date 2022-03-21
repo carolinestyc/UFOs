@@ -9,6 +9,6 @@ The main purpose of the webpage is to filter data by the users preferred criteri
 
 As the user scrolls, they come to a brief 4 paragraph write-up on UFO sightings being fact or fiction before the dive into their search. 
 
-
+When the search function is blank, the webpage shows every point of data and the filter fields are blank besides for the example searches. Having suggested searches shows the user what type of syntax to use while searching. For example, the data is in lower case so the user must search using lower case. Additionally, the state and country variables use short-hand; United States is us and California is ca. Thefore, the user needs to apply the same case when searching. 
 
 ## Summary
